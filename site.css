@@ -1,0 +1,116 @@
+#fond{
+    background-image: url("casablanca/font.jpg");
+    background-size: cover;
+    background-repeat: no-repeat
+    
+}
+#fond_01{
+    background-image: url("Lac rose/font_01.jpg");
+    background-size: cover;
+    background-repeat: no-repeat
+    
+}
+
+#fond_02{
+    background-image: url("rome/r3.jpg");
+    background-size: cover;
+    background-repeat: no-repeat
+    
+}
+
+#fond_03{
+    background-image: url("paris/p3.jpg");
+    background-size: cover;
+    background-repeat: no-repeat
+    
+}
+
+#fond_04{
+    background-image: url("Cap skirring/foto.jpg");
+    background-size: cover;
+    background-repeat: no-repeat
+    
+}
+
+#port{
+    background-color: lavenderblush;
+
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: 230px;
+    margin-right: 140px;
+    font-size: 15px;
+}
+
+
+.tirage{
+    float: left;
+    width: 17%;
+    height: 200px;
+    box-shadow: 50px red ;
+    background-color: rgba(255, 255, 255, .5);
+    border-radius: 10px 10px 10px 10px;
+    color: darkslateblue;
+
+}
+
+.place{
+    margin-bottom: 25px;
+    height: 200px;
+}
+
+
+
+.place_2{
+    margin-top: 25px;
+    height: 400px;
+}
+
+.place_02{
+    margin-top: 200px;
+    height: 400px;
+}
+
+.place_002{
+    margin-top: 200px;
+    height: 500px;
+}
+
+.place_0002{
+    margin-top: 250px;
+    height: 350px;
+}
+
+.place_3{
+   margin-bottom: 20px;
+}
+
+.centrer{
+    background-color: rgba(255, 255, 255, .5);
+    text-align: center;
+    font-size: 13px;
+    margin-left: 230px;
+    margin-right: 140px;
+    
+}
+
+.lien{
+    text-align: center;
+}
+.pht_0{
+    float: right;
+    width: 40%;
+    height: 230px;
+}
+.pht_1{
+    float: left;
+    width: 40%;
+    height: 230px;
+    margin-right: 20px;
+
+}
+.pht_2{
+    float: right;
+    width: 40%;
+    height: 230px;
+}
